@@ -2,8 +2,9 @@
  A basic remote color changer?
   
 ## Contents:
- >-Remote client alias ColorPicker (android/ios?).
- >-Server app (jvm supported devices).
+ >Remote client alias ColorPicker (android/ios?).
+ 
+ >Server app (jvm supported devices).
 	
 ## Description:
  It just changes the window of the "server" to the color that is selected on the "remote" app.
