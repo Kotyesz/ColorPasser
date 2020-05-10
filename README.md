@@ -13,6 +13,6 @@
  Install the ColorPicker on a mobile device and the reciver on a jvm supported platform. Use the sliders on the mobile app to select a color, color will be represented on the "Change!" button. Set the servers ip in the "Host ip" field and press the "Change!" button.
  	
 ## What I learned:
- -Basic data transfer with http.
+ >Basic data transfer with http.
  
- -Flutter basics.
+ >Flutter basics.
